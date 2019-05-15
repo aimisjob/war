@@ -3,7 +3,8 @@ node{
     git 'https://github.com/aimisjob/war'
 }
  stage('package'){
-  sh 'mvn package'
+   tool name: 'mvn', type: 'maven'
+   sh 'mvn package'
   }
 }
 
