@@ -16,6 +16,6 @@
     </dependency>
   </dependencies>
   <build>
-    <finalName>raim</finalName>
+    <finalName>rain</finalName>
   </build>
 </project>
