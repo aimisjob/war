@@ -1,5 +1,5 @@
 <html>
 <body>
-<h2>please god .bring vaccine soon.please god</h2>
+<h2>please god .bring vaccine soon</h2>
 </body>
 </html>
