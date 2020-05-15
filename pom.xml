@@ -5,7 +5,7 @@
   <artifactId>dream</artifactId>
   <packaging>war</packaging>
   <version>1.0-SNAPSHOT</version>
-  <name>ibm</name>
+  <name>ericson</name>
   <url>http://maven.apache.org</url>
   <dependencies>
     <dependency>
